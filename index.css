@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+input{
+    width: 25%;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    /* padding: 0.5rem; */
+}
