@@ -8,5 +8,11 @@ input{
     border-radius: 20px;
     text-align: center;
     font-size: 1.5rem;
+    display: block;
     /* padding: 0.5rem; */
 }
+#execute-btn{
+    font-size: large;
+    margin: 2rem;
+}
+
